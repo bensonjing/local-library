@@ -1,6 +1,9 @@
 {
   "name": "local-library",
   "version": "0.0.0",
+  "engin": {
+    "node": "16.11.0"
+  },
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
